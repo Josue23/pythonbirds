@@ -5,5 +5,5 @@ class Pessoa:
 
 if __name__ == "__main__":
     p = Pessoa()
-    print(id(p))
     print(p.cumprimentar())
+    print(id(p))
